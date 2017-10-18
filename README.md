@@ -10,7 +10,7 @@ jar 包
     
 	<!--  支付宝当面付 -->
 	<dependency>
-		<groupId>com.aliFacePay</groupId>
+		<groupId>com.hou</groupId>
 		<artifactId>aliFacePay</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</dependency>
