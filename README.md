@@ -8,9 +8,9 @@ jar 包
 		</repository>
     
     
-    <!--  支付宝当面付 -->
-    		<dependency>
-			<groupId>com.aliFacePay</groupId>
-			<artifactId>aliFacePay</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+<!--  支付宝当面付 -->
+<dependency>
+	<groupId>com.aliFacePay</groupId>
+	<artifactId>aliFacePay</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+</dependency>
