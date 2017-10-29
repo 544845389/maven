@@ -1,5 +1,5 @@
 # maven
-jar 包
+jar 包 ..
 
 
 	<repository>
